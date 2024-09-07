@@ -1,0 +1,80 @@
+﻿  Door.c
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\hero.h(22,7): warning C4030: 第一个形参表比第二个长
+  GameWidget.c
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Door.c(66,9): warning C4013: “Sleep”未定义；假设外部返回 int
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Door.c(80,24): warning C4090: “函数”: 不同的“const”限定符
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Door.c(98,22): warning C4133: “=”: 从“void (__cdecl *)(PBase)”到“FPrint”的类型不兼容
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Door.c(112,22): warning C4133: “=”: 从“void (__cdecl *)(PBase)”到“FPrint”的类型不兼容
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Door.c(126,22): warning C4133: “=”: 从“void (__cdecl *)(PBase)”到“FPrint”的类型不兼容
+  Hero.c
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\hero.h(22,7): warning C4030: 第一个形参表比第二个长
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Hero.c(15,24): warning C4090: “函数”: 不同的“const”限定符
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Hero.c(123,7): warning C4029: 声明的形参表不同于定义
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Hero.c(143,22): warning C4133: “=”: 从“void (__cdecl *)(PBase)”到“FPrint”的类型不兼容
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Hero.c(192,13): warning C4047: “函数”:“char *const ”与“const char *[1024]”的间接级别不同
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Hero.c(192,13): warning C4024: “sprintf”: 形参和实参 1 的类型不同
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Hero.c(193,24): warning C4047: “函数”:“const char *”与“const char *[1024]”的间接级别不同
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Hero.c(193,24): warning C4024: “fopen”: 形参和实参 1 的类型不同
+  Key.c
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\hero.h(22,7): warning C4030: 第一个形参表比第二个长
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Key.c(66,24): warning C4090: “函数”: 不同的“const”限定符
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Key.c(84,21): warning C4133: “=”: 从“void (__cdecl *)(PBase)”到“FPrint”的类型不兼容
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Key.c(98,21): warning C4133: “=”: 从“void (__cdecl *)(PBase)”到“FPrint”的类型不兼容
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Key.c(112,21): warning C4133: “=”: 从“void (__cdecl *)(PBase)”到“FPrint”的类型不兼容
+  Monster.c
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\hero.h(22,7): warning C4030: 第一个形参表比第二个长
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Monster.c(83,24): warning C4090: “函数”: 不同的“const”限定符
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Monster.c(95,7): warning C4029: 声明的形参表不同于定义
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Monster.c(102,25): warning C4133: “=”: 从“void (__cdecl *)(PBase)”到“FPrint”的类型不兼容
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Monster.c(115,7): warning C4029: 声明的形参表不同于定义
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Monster.c(122,25): warning C4133: “=”: 从“void (__cdecl *)(PBase)”到“FPrint”的类型不兼容
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Monster.c(135,7): warning C4029: 声明的形参表不同于定义
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Monster.c(142,25): warning C4133: “=”: 从“void (__cdecl *)(PBase)”到“FPrint”的类型不兼容
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Monster.c(155,7): warning C4029: 声明的形参表不同于定义
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Monster.c(162,25): warning C4133: “=”: 从“void (__cdecl *)(PBase)”到“FPrint”的类型不兼容
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Monster.c(175,7): warning C4029: 声明的形参表不同于定义
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Monster.c(182,25): warning C4133: “=”: 从“void (__cdecl *)(PBase)”到“FPrint”的类型不兼容
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Monster.c(195,7): warning C4029: 声明的形参表不同于定义
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Monster.c(202,25): warning C4133: “=”: 从“void (__cdecl *)(PBase)”到“FPrint”的类型不兼容
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Monster.c(215,7): warning C4029: 声明的形参表不同于定义
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Monster.c(222,25): warning C4133: “=”: 从“void (__cdecl *)(PBase)”到“FPrint”的类型不兼容
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Monster.c(273,9): warning C4013: “Sleep”未定义；假设外部返回 int
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Monster.c(297,17): warning C4013: “_getch”未定义；假设外部返回 int
+  Mota.c
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Mota.c(34,38): warning C4047: “函数”:“int *”与“int [13][13]”的间接级别不同
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Mota.c(34,38): warning C4024: “CreateScene”: 形参和实参 1 的类型不同
+  MoveFloor.c
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\hero.h(22,7): warning C4030: 第一个形参表比第二个长
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\MoveFloor.c(56,24): warning C4090: “函数”: 不同的“const”限定符
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\MoveFloor.c(79,23): warning C4133: “=”: 从“void (__cdecl *)(PBase)”到“FPrint”的类型不兼容
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\MoveFloor.c(93,23): warning C4133: “=”: 从“void (__cdecl *)(PBase)”到“FPrint”的类型不兼容
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\MoveFloor.c(108,44): warning C4133: “==”: 从“PHero”到“PBase”的类型不兼容
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\MoveFloor.c(116,58): warning C4133: “=”: 从“PHero”到“PBase”的类型不兼容
+  Pick.c
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\hero.h(22,7): warning C4030: 第一个形参表比第二个长
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Pick.c(65,24): warning C4090: “函数”: 不同的“const”限定符
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Pick.c(83,22): warning C4133: “=”: 从“void (__cdecl *)(PBase)”到“FPrint”的类型不兼容
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Pick.c(97,22): warning C4133: “=”: 从“void (__cdecl *)(PBase)”到“FPrint”的类型不兼容
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Pick.c(111,22): warning C4133: “=”: 从“void (__cdecl *)(PBase)”到“FPrint”的类型不兼容
+  public.c
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\public.c(84,17): warning C4090: “函数”: 不同的“const”限定符
+  Scene.c
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\hero.h(22,7): warning C4030: 第一个形参表比第二个长
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Scene.c(47,17): warning C4133: “==”: 从“PHero”到“PBase”的类型不兼容
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Scene.c(275,26): warning C4047: “初始化”:“FGetModuleId”与“FCreateMaster”的间接级别不同
+  Shop.c
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\hero.h(22,7): warning C4030: 第一个形参表比第二个长
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Shop.c(77,17): warning C4013: “Sleep”未定义；假设外部返回 int
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Shop.c(178,24): warning C4090: “函数”: 不同的“const”限定符
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Shop.c(197,22): warning C4133: “=”: 从“void (__cdecl *)(PBase)”到“FPrint”的类型不兼容
+  Wall.c
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\hero.h(22,7): warning C4030: 第一个形参表比第二个长
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Wall.c(35,24): warning C4090: “函数”: 不同的“const”限定符
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Wall.c(53,22): warning C4133: “=”: 从“void (__cdecl *)(PBase)”到“FPrint”的类型不兼容
+  正在生成代码...
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Scene.c(148,1): warning C4716: “LoadGame”: 必须返回一个值
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\public.c(155,1): warning C4716: “Map_Init”: 必须返回一个值
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\MoveFloor.c(183,1): warning C4716: “HeroMoveFloor”: 必须返回一个值
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Mota.c(36,1): warning C4716: “Game_Init”: 必须返回一个值
+C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaC\Monster.c(286,1): warning C4715: “MonsterFright_Show”: 不是所有的控件路径都返回值
+  MotaC.vcxproj -> C:\Users\licuocuo\Desktop\Desktop\code\VSC++\MotaCPP\x64\Debug\MotaC.exe
